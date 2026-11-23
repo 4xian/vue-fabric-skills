@@ -1,0 +1,4 @@
+interface:
+  display_name: "Vue Fabric SDK"
+  short_description: "Help with vue-fabric SDK integration and diagnosis"
+  default_prompt: "Use $vue-fabric-sdk to integrate or debug @4xian/vue-fabric in a project."
